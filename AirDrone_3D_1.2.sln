@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AirDrone_3D_1.2", "AirDrone_3D_1.2\AirDrone_3D_1.2.csproj", "{EED966FE-74E1-4BF6-9F52-2BA97459335E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AirDrone_3D_classes", "AirDrone_3D_classes\AirDrone_3D_classes.csproj", "{6E549E6F-3704-4FDA-85EE-559128FA5EDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EED966FE-74E1-4BF6-9F52-2BA97459335E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EED966FE-74E1-4BF6-9F52-2BA97459335E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EED966FE-74E1-4BF6-9F52-2BA97459335E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EED966FE-74E1-4BF6-9F52-2BA97459335E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E549E6F-3704-4FDA-85EE-559128FA5EDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E549E6F-3704-4FDA-85EE-559128FA5EDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E549E6F-3704-4FDA-85EE-559128FA5EDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E549E6F-3704-4FDA-85EE-559128FA5EDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0803C3C-6263-4F69-A31E-179BF64736FC}
+	EndGlobalSection
+EndGlobal
